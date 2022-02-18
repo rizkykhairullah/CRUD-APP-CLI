@@ -1,2 +1,5 @@
-# Crud-App-CLI
-Aplikasi CRUD dibuat dengan menggunakan bahasa pemrograman Python (Library mysql-connector) dan Mysql sebagai database.
+# Aplikasi CRUD dengan Python & Mysql
+Membutuhkan : 
+- Python : Versi saya 3.8.1
+- Library python mysql-connector : Versi saya 8.0.28
+- Mysql
